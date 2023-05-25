@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.container {
+#grid-container {
   display: grid;
   background-color: transparent;
   grid-template-columns: 1fr 1fr 1fr;
